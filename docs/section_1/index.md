@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 1
+title: Section 1
 nav_order: 4
 has_children: true
 ---

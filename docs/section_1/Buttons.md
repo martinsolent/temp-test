@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Buttons
-parent: Week 1
+title: Section 1 - Child 1
+parent: Section 1
 nav_order: 2
 ---
 
 {: .no_toc }
 
-# Buttons
+# Child 1
