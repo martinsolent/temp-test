@@ -7,4 +7,4 @@ has_children: true
 
 {: .no_toc }
 
-# Week 1
+# Section 1
