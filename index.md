@@ -5,13 +5,13 @@ nav_order: 1
 permalink: /
 ---
 
-# Digital Creativity COM420
+# Introduction
 
-Updated 10:44
+This is the main index page and contains an introduction to your content in this repo
 
-[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-purple } 
+This repo uses the static site [just-the-docs](https://pmarsceill.github.io/just-the-docs/)
 
-[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-blue } 
+[Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-purple } [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-blue } 
 
 [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-green }
 
