@@ -21,3 +21,5 @@ Long ago more
 [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-green }
 
 [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-outline }
+
+{: .no_toc }
