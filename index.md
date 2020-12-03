@@ -7,10 +7,6 @@ permalink: /
 
 # Digital Creativity COM420
 
-{: .fs-9 }
-
-{: .no_toc }
-
 Ok GOOD
 
 Long ago more
