@@ -24,9 +24,3 @@ This repo uses the static site [just-the-docs](https://pmarsceill.github.io/just
 <span class="fs-3">
 [Tiny ass button](http://example.com/){: .btn }
 </span>
-
-### Task list
-
-- [ ] hello, this is a todo item
-- [ ] hello, this is another todo item
-- [x] goodbye, this item is done
