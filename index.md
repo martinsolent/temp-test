@@ -7,9 +7,7 @@ permalink: /
 
 # Digital Creativity COM420
 
-Ok GOOD
-
-Long ago more
+Updated 10:44
 
 [Download Walkthrough](https://twitter.com/WebDevSolent){: .btn .btn-purple } 
 
